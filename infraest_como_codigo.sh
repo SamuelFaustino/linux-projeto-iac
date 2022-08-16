@@ -12,7 +12,7 @@ echo -e "\nCriando Grupos de usuários..."
 
 groupadd Grupo_adm
 groupadd Grupo_vendas
-groupadd Gruopo_sec
+groupadd Grupo_sec
 
 echo -e "\nCriando Usuários..."
 
